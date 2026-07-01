@@ -1,0 +1,9 @@
+<svg width="260" height="68" viewBox="0 0 260 68" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Spooner Kitchenware</title>
+  <desc id="desc">Orange and black Spooner Kitchenware wordmark</desc>
+  <rect width="260" height="68" rx="12" fill="#FFFFFF"/>
+  <circle cx="33" cy="34" r="22" fill="#F36C21"/>
+  <path d="M32.8 14.8C26.5 14.8 21.4 19.7 21.4 25.7C21.4 30.9 25.2 35.1 30.4 36.1V53.4C30.4 54.7 31.4 55.7 32.8 55.7C34.1 55.7 35.1 54.7 35.1 53.4V36.1C40.4 35.1 44.1 30.9 44.1 25.7C44.1 19.7 39.1 14.8 32.8 14.8Z" fill="#FFFFFF"/>
+  <text x="66" y="31" fill="#111111" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="800" letter-spacing="0">Spooner</text>
+  <text x="67" y="50" fill="#F36C21" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2">KITCHENWARE</text>
+</svg>
