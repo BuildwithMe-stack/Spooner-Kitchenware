@@ -13,7 +13,7 @@ Open `http://localhost:3000`.
 
 ## Brand Assets
 
-The current logo lives at `public/logo.svg`. Replace that file with the uploaded Spooner Kitchenware logo when available, or update the header/footer logo path.
+The active logo lives at `public/logo.jpg`.
 
 Generated catalog images are stored in `public/images`.
 
